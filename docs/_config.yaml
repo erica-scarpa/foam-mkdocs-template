@@ -1,0 +1,10 @@
+title: Ebla Palace Society
+tagline: Info
+author:
+  name: erica-scarpa
+  email: erica.scarpa@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://erica-scarpa.github.io/ebla-palace-society/" # the base hostname & protocol for your site
+theme: gatsby-digital-garden
